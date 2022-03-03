@@ -1,5 +1,5 @@
 # Author: Gurumoorthy Mohan
-version: '3.7'
+version: '3.3'
 
 services:
   forms-flow-bpm-db:
