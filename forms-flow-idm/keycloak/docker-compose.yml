@@ -1,5 +1,5 @@
 # Author: Shibin Thomas
-version: "3.7"
+version: "2.2"
 
 volumes:
   postgres:
