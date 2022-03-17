@@ -1,5 +1,5 @@
 # Author: Yichun Zhao
-version: "3.7"
+version: "2.2"
 services:
   forms-flow-bpm-db:
     image: postgres:latest
